@@ -1,0 +1,14 @@
+{
+  "name": "newfold-labs/wp-php-standards",
+  "description": "PoC for dependency-confusion (benign marker only) — for responsible disclosure.",
+  "type": "library",
+  "license": "MIT",
+  "autoload": {
+    "psr-4": {
+      "PoC\\": "src/"
+    }
+  },
+  "require": {
+    "php": ">=7.4"
+  }
+}
