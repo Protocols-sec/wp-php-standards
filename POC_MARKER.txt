@@ -1,0 +1,5 @@
+POC: benign dependency-confusion test package
+Package name: newfold-labs/wp-php-standards
+Created: 2025-09-06
+Purpose: Responsible disclosure test only — contains no executable code or install scripts.
+Contact: your-email@example.com
